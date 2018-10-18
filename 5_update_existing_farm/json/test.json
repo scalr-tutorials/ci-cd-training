@@ -1,0 +1,26 @@
+{
+	"meta": {
+		"requestId": "532941fc-91a0-4fe2-8379-d702c10de131"
+	},
+	"data": {
+		"_meta": {
+			"schema_version": "v1beta0-7.11.2"
+		},
+		"farm": {
+			"name": "test11",
+			"description": "test11",
+			"owner": {
+				"id": 37,
+				"email": "lynn@scalrdemo.demo.scalr.com"
+			},
+			"project": {
+				"id": "1682b63d-6d28-4b5f-8438-3cf058f89a6c"
+			},
+			"timezone": "America\/Chicago",
+			"launchOrder": "simultaneous",
+			"variables": []
+		},
+		"roles": []
+	},
+	"warnings": []
+}

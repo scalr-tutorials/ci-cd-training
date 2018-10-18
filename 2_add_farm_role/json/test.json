@@ -1,0 +1,45 @@
+{
+   "networking": {
+    "networks": [
+      {
+        "id": "vpc-5818a621"
+        }
+     ],
+    "subnets": [
+      {
+        "id": "subnet-6b709a55"
+      }
+    ]
+   },
+   "advancedConfiguration": {
+     "disableAgentIptablesManagement": false,
+     "disableAgentNtpManagement": false,
+     "rebootAfterHostInit": false
+   },
+   "scaling": {
+     "minInstances": 1,
+     "enabled": false,
+     "maxInstances": 1
+   },
+   "alias": "test",
+   "role": {
+     "id": "96582"
+   },
+   "cloudFeatures": {
+     "type": "AwsCloudFeatures"
+   },
+   "launchIndex": 1,
+   "security": {
+     "securityGroups": [{
+       "id": "sg-ba2bb3f3"
+     }, {
+       "id": "sg-ca60c9bb"
+     }]
+   },
+   "availabilityZones": [],
+   "cloudLocation": "us-east-1",
+   "instanceType": {
+       "id": "t2.medium"
+   },
+   "cloudPlatform": "ec2"
+ }
