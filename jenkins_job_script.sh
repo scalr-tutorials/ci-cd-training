@@ -31,6 +31,9 @@ while [ "$serverstatus" != "running" ]
 	sleep 10
 done
 
+# let logs run
+sleep 30
+
 # get orchestration log id
 export orchlogid=`scalr-ctl --config $config scripts list-orchestration-logs | jq ".data[] | select(.server.id | contains($orchserverid)).id"| sed "s/\"//g"`
 
