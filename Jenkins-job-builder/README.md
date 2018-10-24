@@ -13,7 +13,7 @@ Install Jenkins-jobb-builder, by running 'pip install jenkins-job-builder'
 ## Step 2:  
 Update the demo "jenkins_jobs.ini" file found in this folder
 
-![Image description](https://github.com/scalr-tutorials/ci-cd-training/blob/master/Jenkins-job-builder/images/jobyaml.png)
+![Image description](https://github.com/scalr-tutorials/ci-cd-training/blob/master/Jenkins-job-builder/images/jenkinsini.png)
 
 ## Step 2:  
 Update the demo jobs found in the "jobs" folder
