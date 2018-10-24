@@ -15,3 +15,8 @@ Enter the name of your new JOB and choose Freestyle.
 Under Source Control choose git and enter the URL for your git repo.  
 
 ![Image description](https://github.com/scalr-tutorials/ci-cd-training/blob/master/Jenkins-manual-setup/images/gitsetup.png)
+
+## Step 4:
+Under the Build section choose "Shell Script" then paste in the contents of jenkins_jobs_script.sh  
+
+![Image description](https://github.com/scalr-tutorials/ci-cd-training/blob/master/Jenkins-manual-setup/images/build_script.png)
