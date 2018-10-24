@@ -3,9 +3,10 @@ The following stpes will show you how to setup the same basic Jenkins Job as wil
 
 ## Step 1:
 Logon to the Jenkins server and choose "New Item"  
-
+  
 ![Image description](https://github.com/scalr-tutorials/ci-cd-training/blob/master/Jenkins-manual-setup/images/newitem.png)  
 
 ## Step 2:  
 Enter the name of your new JOB and choose Freestyle.  
+
 ![Image description](https://github.com/scalr-tutorials/ci-cd-training/blob/master/Jenkins-manual-setup/images/newjob.png)
