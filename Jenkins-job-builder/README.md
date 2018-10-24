@@ -29,5 +29,3 @@ run 'jenkins-jobs --conf jenkin_job.ini update dev-job.yml'
 Look in the Jenkins UI you should see the jobs
 
 ![Image description](https://github.com/scalr-tutorials/ci-cd-training/blob/master/Jenkins-job-builder/images/jobexists.png)
-
-## Step 5:
