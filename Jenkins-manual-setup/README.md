@@ -8,4 +8,4 @@ Logon to the Jenkins server and choose "New Item"
 
 ## Step 2:  
 
-![Image description](https://github.com/scalr-tutorials/ci-cd-training/blob/master/Jenkins-manual-setup/images/newitem.png)
+![Image description](https://github.com/scalr-tutorials/ci-cd-training/blob/master/Jenkins-manual-setup/images/newjob.png)
