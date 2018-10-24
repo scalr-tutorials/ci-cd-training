@@ -21,13 +21,13 @@ Update the demo jobs found in the "jobs" folder
 ![Image description](https://github.com/scalr-tutorials/ci-cd-training/blob/master/Jenkins-job-builder/images/jobyaml.png)
 
 ## Step 4:  
-run 'jenkins-jobs update dev-job.yml'  
+run 'jenkins-jobs --conf jenkin_job.ini update dev-job.yml'  
 
-![Image description](https://github.com/scalr-tutorials/ci-cd-training/blob/master/Jenkins-job-builder/images/gitsetup.png)
+![Image description](https://github.com/scalr-tutorials/ci-cd-training/blob/master/Jenkins-job-builder/images/runjobbuilder.png)
 
 ## Step 5:
 Look in the Jenkins UI you should see the jobs
 
-![Image description](https://github.com/scalr-tutorials/ci-cd-training/blob/master/Jenkins-job-builder/images/build_script.png)
+![Image description](https://github.com/scalr-tutorials/ci-cd-training/blob/master/Jenkins-job-builder/images/jobexists.png)
 
 ## Step 5:
