@@ -1,0 +1,6 @@
+ {
+   "cloudServiceId": "test1",
+   "cloudLocation": "us-east-1",
+   "type": "AwsElbLink",
+   "cloudPlatform": "aws"
+ }
