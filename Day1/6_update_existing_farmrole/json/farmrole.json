@@ -1,0 +1,50 @@
+{
+  "networking": {
+    "subnets": [
+      {
+        "id": "subnet-6b709a55"
+      }
+    ],
+    "hostname": {
+      "type": "TemplateHostnameConfiguration"
+    },
+    "networks": [
+      {
+        "id": "vpc-5818a621"
+      }
+    ]
+  },
+  "advancedConfiguration": {
+    "disableAgentIptablesManagement": false,
+    "rebootAfterHostInit": false,
+    "disableAgentNtpManagement": false
+  },
+  "scaling": {
+    "minInstances": 1,
+    "enabled": true,
+    "scalingBehavior": "launch-terminate",
+    "considerSuspendedServers": "running",
+    "maxInstances": 2
+  },
+  "alias": "Chef-Centos-7x",
+  "role": {
+    "id": 96624
+  },
+  "cloudFeatures": {
+    "ebsOptimized": false
+  },
+  "launchIndex": 0,
+  "security": {
+    "securityGroups": [
+      {
+        "id": "sg-ba2bb3f3"
+      },
+      {
+        "id": "sg-ca60c9bb"
+      }
+    ]
+  },
+  "instanceType": {
+    "id": "t2.small"
+  }
+}
