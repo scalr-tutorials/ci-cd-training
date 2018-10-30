@@ -8,4 +8,4 @@ export jsonfile=$2
 mkdir -p ./json
 
 # update Farm
-scalr-ctl farms update --farmId $farmId --stdin < ./json/$2.json
+scalr-ctl farms update --farmId $farmId --stdin < ./json/$jsonfile
