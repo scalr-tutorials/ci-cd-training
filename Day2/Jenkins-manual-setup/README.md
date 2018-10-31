@@ -1,5 +1,5 @@
 # Jenkins Jobs (Manual setup)
-The following stpes will show you how to setup the same basic Jenkins Job as will be setup later in the `build-cicd-farm` automation.
+The following steps will show you how to setup the same basic Jenkins Job as will be setup later in the `build-cicd-farm` automation.
 
 ## Prerequisites:
 - scalr-ctl installed and configured on the Jenkins box  
