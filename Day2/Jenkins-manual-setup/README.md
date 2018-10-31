@@ -26,4 +26,7 @@ Under the Build section choose "Shell Script" then paste in the contents of jenk
 ![Image description](https://github.com/scalr-tutorials/ci-cd-training/blob/master/Day2/Jenkins-manual-setup/images/build_script.png)
 
 ## Step 5:
+You will need to update the line in the script ``export config=/etc/jenkins_jobs/dev-app1.yml`` to point to your credentials file.
+
+## Step 5:
 Run the JOB
